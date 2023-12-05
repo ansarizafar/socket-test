@@ -2,6 +2,7 @@
   "name": "restock",
   "type": "module",
   "scripts": {
+    "start": "ssc build -r",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
